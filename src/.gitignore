@@ -3,7 +3,8 @@
 /public/storage
 /storage/*.key
 /vendor
-.env
+# 開発初期段階のため、.envの設定も管理
+#.env
 .env.backup
 .phpunit.result.cache
 Homestead.json
